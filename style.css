@@ -1,0 +1,182 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+center{
+    margin-top: 50px;
+}
+.image{
+    /* margin-top: 10px; */
+    position: absolute;
+    top: 190px;
+    left: 560px;
+}
+h6{
+    margin-top: -10px;
+}
+.english{
+    position:relative;
+    left: -150px;
+   
+}
+.english a{
+    text-decoration: none;
+    color: #3366CC;
+    cursor: pointer;
+}
+.english a small{
+    color: #54595D;
+}
+.Русский a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.Русский a small{
+    color: #54595D;
+}
+.Русский{
+    position: relative;
+    top: -35px;
+    left: 120px;
+}
+.日本語 a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.日本語 a small{
+    color: #54595D;
+}
+.日本語{
+    position: relative;
+    left: -200px;
+}
+.Español a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.Español a small{
+    color: #54595D;
+}
+.Español{
+    position: relative;
+    top: -35px;
+    left: 170px;
+}
+.Deutsch a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.Deutsch a small{
+    color: #54595D;
+}
+.Français a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.Français a small{
+    color: #54595D;
+}
+.Deutsch{
+    position: relative;
+    left: -215px;
+}
+.Français{
+    position: relative;
+    top: -35px;
+    left: 185px;
+}
+.Italiano a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.Italiano a small{
+    color: #54595D;
+}
+.中文 a{
+    text-decoration: none;
+     color: #3366CC;
+}
+.中文 a small{
+    color: #54595D;
+}
+.Italiano{
+    position: relative;
+    left: -200px;
+}
+.中文{
+    position: relative;
+    top: -35px;
+    left: 175px;
+}
+.last a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.last a small{
+    color: #54595D;
+}
+.lasth a{
+    text-decoration: none;
+    color: #3366CC;
+}
+.lasth a small{
+    color: #54595D;
+}
+.last{
+    position: relative;
+    left: -155px;
+}
+.lasth{
+    position: relative;
+    top: -35px;
+    left: 120px;
+}
+.select{
+    border: 1px solid;
+    
+
+}
+input{
+    width: 400px;
+    height: 40px;
+}
+.btn{
+    /* background-image: url(images/icons8-search-30.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; */
+    /* padding: 18px 20px; */
+    width: 55px;
+    height: 41px;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    position: absolute;
+    top: 0px;
+    left: 871px;
+    border:none;
+    background-color:#447FF5 ;
+}
+.area{
+    /* margin-right: 10px; */
+}
+.option{
+    position: absolute;
+    top: 7px;
+    left: 820px;
+    /* border: 1px solid; */
+    /* display: none; */
+    color: gray;
+}
+select{
+    display: none;
+}
+.old{
+    position: relative;
+    left: -35px;
+}
+.styles{
+
+}
